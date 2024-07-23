@@ -1,2 +1,1 @@
-# CodSoft
-CodSoft Internship
+Basics of Python
